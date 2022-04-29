@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoaderManger</string>
+    <string name="string">String</string>
+    <string name="shor">Shor</string>
+    <string name="Long">Long</string>
+    <string name="time">Get time</string>
+    <string name="observer">Observer</string>
+</resources>
